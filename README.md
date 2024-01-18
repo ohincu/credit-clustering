@@ -13,7 +13,7 @@ Make sure you have the following packages installed:
 
 ## Conclusions
 
-The final 5 clusters are :
+The final five customer clusters are :
 * Cluster 1 (Active Cash Advance Customers)
 They have a high limit than most and they use it for purchasing stuff. Additionally, they make use of installments and a bit of cash advances.
 
@@ -28,6 +28,13 @@ They do no do much. They do not buy, they do not take cash advances.
 
 * Cluster 5 (Installment Customers)
 They prefer safety and therefore to make purchases via installments, and do not take any cash advance.
+
+Here are some findings that helped clustering customers:
+![](plots/Credit_limit_by_cluster.png)
+
+![](plots/Cash_advance_by_cluster.png)
+
+![](plots/Credit_limit_purchases_by_cluster.png)
 
 ## Marketing Strategies
 To make sure we keep customers in the business we have a marketing strategy set for each one of them.
